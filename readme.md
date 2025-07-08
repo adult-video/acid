@@ -1,5 +1,5 @@
 # ACID
-This is a stand-alone module that contains the core functionalities of my livecoding language ACID (which is short for **A**lgorithms **C**reate **I**mage **D**ata). For the packaged software please refer to [this]() repository.
+This is a stand-alone module that contains the core functionalities of my livecoding language ACID (which is short for **A**lgorithms **C**reate **I**mage **D**ata). For the packaged software please refer to [this](https://github.com/adult-video/acid.app) repository.
 
 This repository acts as a submodule for my various applications. At the same time it can be run as a standalone web demo. For this the `index.html` file and the `script.js` file is used. All files used for the submodule are contained within the `/js/` folder.
 
